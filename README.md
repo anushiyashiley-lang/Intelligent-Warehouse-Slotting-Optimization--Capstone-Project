@@ -140,7 +140,7 @@ The closeness of the Random Forest cross-validation and test RMSE values is enco
 - **[Capstone analysis notebook](Intelligent_Warehouse_Slotting_Capstone.ipynb)** — data preparation, exploratory charts, location heatmap, baseline and advanced regression models, cross-validation, hyperparameter tuning, and findings.
 - **`README.md`** — nontechnical final report and summary of the work.
 
-The linked notebook filename must match the file committed to this repository. The confidential source dataset is intentionally omitted.
+The confidential source dataset is intentionally omitted.
 
 ## 11. Data Confidentiality and Reproducibility
 
