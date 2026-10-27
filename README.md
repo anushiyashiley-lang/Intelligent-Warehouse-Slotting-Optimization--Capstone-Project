@@ -1,6 +1,6 @@
 # Intelligent Warehouse Slotting Optimization
 
-**UC Berkeley Engineering — Machine Learning & Artificial Intelligence Capstone | Final Report**
+**UC Berkeley Engineering — Machine Learning & Artificial Intelligence Capstone - Final Report**
 
 ## Executive Summary
 
